@@ -1,0 +1,9 @@
+{
+  "name": "mono-video-link-tool",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first monochrome video link tool with a Vercel serverless API scaffold",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
